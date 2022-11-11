@@ -8,7 +8,7 @@ const Footer = () => {
                     <div className='flex flex-col justify-center items-center'>
                     </div>
 
-                    <p className="my-6 text-white dark:text-white">Top In The Town, Fitness Training Program With Us. Get, Set, Go </p>
+                    <p className="my-6 text-white dark:text-white">Top In The Town, Tour Program With Us. Get, Set, Go </p>
                     <ul className="flex flex-wrap justify-center items-center mb-6 text-gray-900 dark:text-white">
                         <li>
                             <Link to="/" className="mr-4 hover:underline md:mr-6 ">Home</Link>
@@ -23,7 +23,7 @@ const Footer = () => {
                             <Link to="/contact" className="mr-4 hover:underline md:mr-6">Contact</Link>
                         </li>
                     </ul>
-                    <span className="text-sm text-white sm:text-center text-white">© 2022-2023 <a href="#" className="hover:underline">Fitness Platoon™</a>. All Rights Reserved.</span>
+                    <span className="text-sm text-white sm:text-center text-white">© 2022-2023 <a href="#" className="hover:underline">Global Travel™</a>. All Rights Reserved.</span>
                 </div>
             </footer>
         </div>
